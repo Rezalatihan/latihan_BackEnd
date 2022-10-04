@@ -3,10 +3,7 @@ const user = users.Router();
 
 
 user.route('/user')
-    //Membuat route (Menggabungkan url)
-    //Dengan syarat harus satu Url
     .get((req, res) => {
-        //mengembalikan data JSON
         const kelas = {
             id: 1,
             nama: 'Reza Catria Akbar'

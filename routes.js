@@ -8,12 +8,10 @@ router.get('/', (req, res) => {
 })
 
 router.get('/about', (req, res) => {
-    //Membuat Elemen HTML
     res.send('<h1> About express <h1>')
 })
 
 router.get('/eduwork', (req, res) => {
-    //Me redirect (Mengalihkan)
     res.redirect('https://eduwork.id/')
 })
 
