@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rezalatihan/backend.git"
+    "url": "git+https://github.com/Rezalatihan/latihan_BackEnd.git"
   },
   "author": "Reza Catria Akbar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rezalatihan/backend/issues"
+    "url": "https://github.com/Rezalatihan/latihan_BackEnd/issues"
   },
-  "homepage": "https://github.com/Rezalatihan/backend#readme",
+  "homepage": "https://github.com/Rezalatihan/latihan_BackEnd#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
